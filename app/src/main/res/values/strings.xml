@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DoctorNearMe</string>
+    <string name="find_doctor">Find Doctor</string>
+    <string name="todo">TODO</string>
 </resources>
