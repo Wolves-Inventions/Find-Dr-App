@@ -2,4 +2,11 @@
     <string name="app_name">DoctorNearMe</string>
     <string name="find_doctor">Find Doctor</string>
     <string name="todo">TODO</string>
+    <string name="book_your_appointment_with_us_today">BOOK YOUR APPOINTMENT WITH US TODAY</string>
+    <string name="enter_email">ENTER EMAIL</string>
+    <string name="log_in">LOG IN</string>
+    <string name="forgot_pin">forgot pin?</string>
+    <string name="enter_password">ENTER PASSWORD</string>
+    <string name="dont_have_an_account_register_now">Dont have an account? REGISTER now</string>
+    <string name="register">REGISTER</string>
 </resources>
