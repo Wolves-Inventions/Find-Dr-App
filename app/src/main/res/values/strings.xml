@@ -10,4 +10,12 @@
     <string name="dont_have_an_account_register_now">Dont have an account? REGISTER now</string>
     <string name="register">REGISTER</string>
     <string name="forgot_password">forgot password?</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="todo">TODO</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="enter_surname">Enter Surname</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="create_acc">CREATE ACC</string>
+    <string name="sign_in">Sign In</string>
 </resources>
